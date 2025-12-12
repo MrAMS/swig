@@ -1,0 +1,5 @@
+{
+  "integrity": "",
+  "strip_prefix": "swig-{VERSION}",
+  "url": "https://github.com/{OWNER}/{REPO}/releases/download/v{VERSION}/swig-{VERSION}.tar.gz"
+}
